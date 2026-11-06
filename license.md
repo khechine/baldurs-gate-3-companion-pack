@@ -134,4 +134,4 @@ instead of running an old one.
 
 ---
 
-*baldurs-gate-3-companion-pack · Updated 2026-11-05 · Shared under the MIT License*
+*baldurs-gate-3-companion-pack · Updated 2026-11-06 · Shared under the MIT License*
